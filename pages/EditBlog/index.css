@@ -1,0 +1,31 @@
+.add-new-item-page-container {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  min-height: 100vh;
+}
+
+.add-new-item-container {
+}
+
+.add-new-item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 10px;
+  background-color: black;
+  color: white;
+  padding: 10%;
+}
+
+.add-new-item input {
+  margin-right: 10px;
+  padding: 15px;
+}
+
+.add-new-item button {
+  height: 60px;
+  width: 140px;
+}
